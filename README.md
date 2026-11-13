@@ -15,11 +15,14 @@ I'm a software engineer in Connecticut and I run [Shadow Vivo LLC](https://shado
 
 ## What I do
 
-<table>
-<tr><td><b>Takeovers</b></td><td>Inherit a production app with real users and payments. Keep it up, then own it end to end: frontend, backend, data and deploys.</td></tr>
-<tr><td><b>Hardening</b></td><td>Fix what hurts most when it breaks: payment ledgers, credential rotation, access control and personal data.</td></tr>
-<tr><td><b>Agent&nbsp;tooling</b></td><td>Build agents that keep a human in the loop. Reading and drafting are free. Anything that writes waits for a yes.</td></tr>
-</table>
+**Takeovers**<br>
+Inherit a production app with real users and payments. Keep it up, then own it end to end: frontend, backend, data and deploys.
+
+**Hardening**<br>
+Fix what hurts most when it breaks: payment ledgers, credential rotation, access control and personal data.
+
+**Agent tooling**<br>
+Build agents that keep a human in the loop. Reading and drafting are free. Anything that writes waits for a yes.
 
 ## How I work
 
