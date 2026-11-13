@@ -16,31 +16,20 @@ I'm a software engineer in Connecticut and I run [Shadow Vivo LLC](https://shado
 ## What I do
 
 <table>
-<tr>
-<td width="33%" valign="top">
-<h3>Takeovers</h3>
-Inherit a production app with real users and payments. Keep it up, then own it end to end: frontend, backend, data and deploys.
-</td>
-<td width="33%" valign="top">
-<h3>Hardening</h3>
-Fix what hurts most when it breaks: payment ledgers, credential rotation, access control and personal data.
-</td>
-<td width="33%" valign="top">
-<h3>Agent tooling</h3>
-Build agents that keep a human in the loop. Reading and drafting are free. Anything that writes waits for a yes.
-</td>
-</tr>
+<tr><td><b>Takeovers</b></td><td>Inherit a production app with real users and payments. Keep it up, then own it end to end: frontend, backend, data and deploys.</td></tr>
+<tr><td><b>Hardening</b></td><td>Fix what hurts most when it breaks: payment ledgers, credential rotation, access control and personal data.</td></tr>
+<tr><td><b>Agent&nbsp;tooling</b></td><td>Build agents that keep a human in the loop. Reading and drafting are free. Anything that writes waits for a yes.</td></tr>
 </table>
 
 ## How I work
 
-```text
-money     append-only. a correction is a reversal row, never an edit.
-shipping  nothing is "live" until the running site proves it.
-bugs      reproduce it, find the cause, change one thing.
-agents    reads and drafts are free. writes wait for a human yes.
-secrets   rotate all of them, then confirm every old one is dead.
-```
+<table>
+<tr><td><code>money</code></td><td>Append-only. A correction is a reversal row, never an edit.</td></tr>
+<tr><td><code>shipping</code></td><td>Nothing is "live" until the running site proves it.</td></tr>
+<tr><td><code>bugs</code></td><td>Reproduce it, find the cause, change one thing.</td></tr>
+<tr><td><code>agents</code></td><td>Reads and drafts are free. Writes wait for a human yes.</td></tr>
+<tr><td><code>secrets</code></td><td>Rotate all of them, then confirm every old one is dead.</td></tr>
+</table>
 
 ## About this profile
 
