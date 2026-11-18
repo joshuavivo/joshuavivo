@@ -34,9 +34,13 @@ Build agents that keep a human in the loop. Reading and drafting are free. Anyth
 <tr><td><code>secrets</code></td><td>Rotate all of them, then confirm every old one is dead.</td></tr>
 </table>
 
+## Featured
+
+**[exactly-once-webhooks](https://github.com/joshuavivo/exactly-once-webhooks)** — process a payment webhook once, even when the provider delivers it twice or two copies race. The bug I fixed on a live app, turned into a library anyone can install. Postgres + in-memory stores, no runtime dependencies, the double-credit race covered by a test.
+
 ## About this profile
 
-My client work is private and stays that way. The repos pinned below are small samples of how I build.
+My client work is private and stays that way. The repos pinned below are small samples of how I build — architected and directed by me, built fast with AI tooling (Claude). The design calls and the judgment are mine.
 
 Proof you can check: the live site I run, [shadowvivo.com](https://shadowvivo.com), and a working demo of the support portal I built, [shadowvivo.com/support-demo](https://shadowvivo.com/support-demo/).
 
