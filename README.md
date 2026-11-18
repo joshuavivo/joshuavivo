@@ -36,7 +36,7 @@ Build agents that keep a human in the loop. Reading and drafting are free. Anyth
 
 ## About this profile
 
-My client work is private and stays that way, so this page is new. Public repos are on the way.
+My client work is private and stays that way. The repos pinned below are small samples of how I build.
 
 <p align="center">
 <a href="https://shadowvivo.com"><img alt="shadowvivo.com" src="https://img.shields.io/badge/shadowvivo.com-1f8a70?style=for-the-badge"></a>
