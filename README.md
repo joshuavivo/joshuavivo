@@ -58,5 +58,6 @@ Proof you can check: the live site I run, [shadowvivo.com](https://shadowvivo.co
 <p align="center">
 <a href="https://shadowvivo.com"><img alt="shadowvivo.com" src="https://img.shields.io/badge/shadowvivo.com-1f8a70?style=for-the-badge"></a>
 <a href="https://www.linkedin.com/in/joshuavivo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-f6f4ef?style=for-the-badge"></a>
+<a href="https://x.com/JvivoEng"><img alt="X" src="https://img.shields.io/badge/X-f6f4ef?style=for-the-badge"></a>
 <a href="mailto:josh@shadowvivo.com"><img alt="Email" src="https://img.shields.io/badge/josh@shadowvivo.com-f6f4ef?style=for-the-badge"></a>
 </p>
