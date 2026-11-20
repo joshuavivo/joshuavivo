@@ -38,6 +38,8 @@ Build agents that keep a human in the loop. Reading and drafting are free. Anyth
 
 **[exactly-once-webhooks](https://github.com/joshuavivo/exactly-once-webhooks)** — process a payment webhook once, even when the provider delivers it twice or two copies race. The bug I fixed on a live app, turned into a library anyone can install. Postgres, Redis and in-memory stores all held to one shared contract test, no runtime dependencies, the double-credit race proven by a test.
 
+**Start here:** its [payment-path example](https://github.com/joshuavivo/exactly-once-webhooks/tree/main/examples/payment-path) is the whole path in one place: signature check → exactly once → an append-only ledger row in the same Postgres transaction → dead letter, with a test for each step. `node examples/payment-path/demo.ts` runs it.
+
 ## More samples
 
 <table>
