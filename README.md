@@ -43,7 +43,7 @@ Build agents that keep a human in the loop. Reading and drafting are free. Anyth
 ## More samples
 
 <table>
-<tr><td><a href="https://github.com/joshuavivo/ai-built-app-teardown">ai-built-app-teardown</a></td><td>An AI-built app audited: nine vulnerabilities, each with an exploit test that proves it and a fix that closes it.</td></tr>
+<tr><td><a href="https://github.com/joshuavivo/ai-built-app-teardown">ai-built-app-teardown</a></td><td>A fictional AI-built app, audited: nine vulnerabilities, each with an exploit test that proves it and a fix that closes it.</td></tr>
 <tr><td><a href="https://github.com/joshuavivo/agent-permission-gate">agent-permission-gate</a></td><td>A gate between an AI agent and its tools: reads run, writes wait for a person, and injected text can't approve anything.</td></tr>
 <tr><td><a href="https://github.com/joshuavivo/append-only-ledger">append-only-ledger</a></td><td>A payments ledger where rows are never edited: corrections are reversal rows, with a hash chain, enforced by the database.</td></tr>
 <tr><td><a href="https://github.com/joshuavivo/webhook-crm-alert">webhook-crm-alert</a></td><td>Payment webhook → CRM → chat alert, built for the failure cases: bad signatures, duplicates, retries and a dead-letter record.</td></tr>
