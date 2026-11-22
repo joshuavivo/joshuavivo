@@ -13,6 +13,8 @@
 
 I'm a software engineer in Connecticut and I run [Shadow Vivo LLC](https://shadowvivo.com). People bring me a web app that already has real users and real money moving through it, and I keep it running while I make the risky parts safe.
 
+Open to full-time roles and contract work · [josh@shadowvivo.com](mailto:josh@shadowvivo.com) · [shadowvivo.com](https://shadowvivo.com)
+
 ## What I do
 
 **Takeovers**<br>
@@ -36,7 +38,7 @@ Build agents that keep a human in the loop. Reading and drafting are free. Anyth
 
 ## Featured
 
-**[exactly-once-webhooks](https://github.com/joshuavivo/exactly-once-webhooks)** — process a payment webhook once, even when the provider delivers it twice or two copies race. A library anyone can install. Postgres, Redis and in-memory stores all held to one shared contract test, no runtime dependencies, the double-credit race proven by a test.
+**[exactly-once-webhooks](https://github.com/joshuavivo/exactly-once-webhooks)** — process a payment webhook once, even when the provider delivers it twice or two copies race. A library anyone can install. Postgres, Redis and in-memory stores all held to one shared contract test, no runtime dependencies, the double-credit race proven by a test. Its [DESIGN.md](https://github.com/joshuavivo/exactly-once-webhooks/blob/main/DESIGN.md#alternatives-and-why-this-design-doesnt-use-them) says why it doesn't use check-then-insert, advisory locks or SERIALIZABLE retries.
 
 **Start here:** its [payment-path example](https://github.com/joshuavivo/exactly-once-webhooks/tree/main/examples/payment-path) is the whole path in one place: signature check → exactly once → an append-only ledger row in the same Postgres transaction → dead letter, with a test for each step. `node examples/payment-path/demo.ts` runs it.
 
