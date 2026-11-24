@@ -53,6 +53,10 @@ Build agents that keep a human in the loop. Reading and drafting are free. Anyth
 
 Each is small, tested, CI-green, and documents its own limits (in a `DESIGN.md` or a Limits section).
 
+## Work in other projects
+
+- **[porsager/postgres #1345](https://github.com/porsager/postgres/pull/1345)** (merged): a `sql.begin` or `sql.reserve` still waiting for a connection can now be cancelled.
+
 ## About this profile
 
 My client work is private and stays that way, so the public history here starts in November 2026. The repos pinned below are small samples of how I build — architected and directed by me, built fast with AI tooling (Claude). The design calls and the judgment are mine.
