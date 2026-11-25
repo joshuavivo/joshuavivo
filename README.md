@@ -1,5 +1,8 @@
 <p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
 <img src="banner.svg" alt="Joshua Vivo, software engineer, Shadow Vivo LLC. I take over live software and make it safe." width="100%">
+</picture>
 </p>
 
 <p align="center">
@@ -24,7 +27,7 @@ Inherit a production app with real users and payments. Keep it up, then own it e
 Fix what hurts most when it breaks: payment ledgers, credential rotation, access control and personal data.
 
 **Agent tooling**<br>
-Build agents that keep a human in the loop. Reading and drafting are free. Anything that writes waits for a yes.
+Build agents that keep a human in the loop for anything that changes something.
 
 ## How I work
 
@@ -38,7 +41,7 @@ Build agents that keep a human in the loop. Reading and drafting are free. Anyth
 
 ## Featured
 
-**[exactly-once-webhooks](https://github.com/joshuavivo/exactly-once-webhooks)** — process a payment webhook once, even when the provider delivers it twice or two copies race. A library anyone can install. Postgres, Redis and in-memory stores all held to one shared contract test, no runtime dependencies, the double-credit race proven by a test. Its [DESIGN.md](https://github.com/joshuavivo/exactly-once-webhooks/blob/main/DESIGN.md#alternatives-and-why-this-design-doesnt-use-them) says why it doesn't use check-then-insert, advisory locks or SERIALIZABLE retries.
+**[exactly-once-webhooks](https://github.com/joshuavivo/exactly-once-webhooks)** — process a payment webhook once, even when the provider delivers it twice or two copies race. On npm, published with provenance: `npm install exactly-once-webhooks`. Postgres, Redis and in-memory stores all held to one shared contract test, no runtime dependencies, the double-credit race proven by a test. Its [DESIGN.md](https://github.com/joshuavivo/exactly-once-webhooks/blob/main/DESIGN.md#alternatives-and-why-this-design-doesnt-use-them) says why it doesn't use check-then-insert, advisory locks or SERIALIZABLE retries.
 
 **Start here:** its [payment-path example](https://github.com/joshuavivo/exactly-once-webhooks/tree/main/examples/payment-path) is the whole path in one place: signature check → exactly once → an append-only ledger row in the same Postgres transaction → dead letter, with a test for each step. `node examples/payment-path/demo.ts` runs it.
 
@@ -61,7 +64,7 @@ Each is small, tested, CI-green, and documents its own limits (in a `DESIGN.md` 
 
 My client work is private and stays that way, so the public history here starts in November 2026. The repos pinned below are small samples of how I build — architected and directed by me, built fast with AI tooling (Claude). The design calls and the judgment are mine.
 
-Proof you can check: the live site I run, [shadowvivo.com](https://shadowvivo.com), and a working demo of the support portal I built, [shadowvivo.com/support-demo](https://shadowvivo.com/support-demo/).
+Proof you can check: the live site I run, [shadowvivo.com](https://shadowvivo.com), and a working demo of the support portal I built, [shadowvivo.com/support-demo](https://shadowvivo.com/support-demo/). Client reviews, all 5.0: [my Upwork profile](https://www.upwork.com/freelancers/joshuav68).
 
 <p align="center">
 <a href="https://shadowvivo.com"><img alt="shadowvivo.com" src="https://img.shields.io/badge/shadowvivo.com-1f8a70?style=for-the-badge"></a>
