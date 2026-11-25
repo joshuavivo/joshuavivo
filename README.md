@@ -6,12 +6,12 @@
 </p>
 
 <p align="center">
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-f6f4ef?style=for-the-badge&logo=typescript&logoColor=1f8a70">
-<img alt="React" src="https://img.shields.io/badge/React-f6f4ef?style=for-the-badge&logo=react&logoColor=1f8a70">
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-f6f4ef?style=for-the-badge&logo=nodedotjs&logoColor=1f8a70">
-<img alt="Postgres" src="https://img.shields.io/badge/Postgres-f6f4ef?style=for-the-badge&logo=postgresql&logoColor=1f8a70">
-<img alt="Python" src="https://img.shields.io/badge/Python-f6f4ef?style=for-the-badge&logo=python&logoColor=1f8a70">
-<img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-f6f4ef?style=for-the-badge&logo=cloudflare&logoColor=1f8a70">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-21262d?style=for-the-badge&logo=typescript&logoColor=3fb68b"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-f6f4ef?style=for-the-badge&logo=typescript&logoColor=1f8a70"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-21262d?style=for-the-badge&logo=react&logoColor=3fb68b"><img alt="React" src="https://img.shields.io/badge/React-f6f4ef?style=for-the-badge&logo=react&logoColor=1f8a70"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Node.js-21262d?style=for-the-badge&logo=nodedotjs&logoColor=3fb68b"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-f6f4ef?style=for-the-badge&logo=nodedotjs&logoColor=1f8a70"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Postgres-21262d?style=for-the-badge&logo=postgresql&logoColor=3fb68b"><img alt="Postgres" src="https://img.shields.io/badge/Postgres-f6f4ef?style=for-the-badge&logo=postgresql&logoColor=1f8a70"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-21262d?style=for-the-badge&logo=python&logoColor=3fb68b"><img alt="Python" src="https://img.shields.io/badge/Python-f6f4ef?style=for-the-badge&logo=python&logoColor=1f8a70"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Cloudflare-21262d?style=for-the-badge&logo=cloudflare&logoColor=3fb68b"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-f6f4ef?style=for-the-badge&logo=cloudflare&logoColor=1f8a70"></picture>
 </p>
 
 I'm a software engineer in Connecticut and I run [Shadow Vivo LLC](https://shadowvivo.com). People bring me a web app that already has real users and real money moving through it, and I keep it running while I make the risky parts safe.
@@ -68,7 +68,7 @@ Proof you can check: the live site I run, [shadowvivo.com](https://shadowvivo.co
 
 <p align="center">
 <a href="https://shadowvivo.com"><img alt="shadowvivo.com" src="https://img.shields.io/badge/shadowvivo.com-1f8a70?style=for-the-badge"></a>
-<a href="https://www.linkedin.com/in/joshuavivo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-f6f4ef?style=for-the-badge"></a>
-<a href="https://x.com/JvivoEng"><img alt="X" src="https://img.shields.io/badge/X-f6f4ef?style=for-the-badge"></a>
-<a href="mailto:josh@shadowvivo.com"><img alt="Email" src="https://img.shields.io/badge/josh@shadowvivo.com-f6f4ef?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/joshuavivo/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-f6f4ef?style=for-the-badge"></picture></a>
+<a href="https://x.com/JvivoEng"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-21262d?style=for-the-badge"><img alt="X" src="https://img.shields.io/badge/X-f6f4ef?style=for-the-badge"></picture></a>
+<a href="mailto:josh@shadowvivo.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/josh@shadowvivo.com-21262d?style=for-the-badge"><img alt="Email" src="https://img.shields.io/badge/josh@shadowvivo.com-f6f4ef?style=for-the-badge"></picture></a>
 </p>
