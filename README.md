@@ -1,5 +1,8 @@
 <p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
 <img src="banner.svg" alt="Joshua Vivo, software engineer, Shadow Vivo LLC. I take over live software and make it safe." width="100%">
+</picture>
 </p>
 
 <p align="center">
