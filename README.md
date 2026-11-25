@@ -27,7 +27,7 @@ Inherit a production app with real users and payments. Keep it up, then own it e
 Fix what hurts most when it breaks: payment ledgers, credential rotation, access control and personal data.
 
 **Agent tooling**<br>
-Build agents that keep a human in the loop. Reading and drafting are free. Anything that writes waits for a yes.
+Build agents that keep a human in the loop for anything that changes something.
 
 ## How I work
 
