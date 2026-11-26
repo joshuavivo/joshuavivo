@@ -18,6 +18,8 @@ I'm a software engineer in Connecticut and I run [Shadow Vivo LLC](https://shado
 
 Open to full-time roles and contract work · [josh@shadowvivo.com](mailto:josh@shadowvivo.com) · [shadowvivo.com](https://shadowvivo.com)
 
+**Track record:** Top Rated Plus · 100% Job Success · 5.0 on all 4 rated client reviews ([Upwork](https://www.upwork.com/freelancers/joshuav68)) · one client hired me five times in a row: a live-app takeover, then retainer work after launch · a fix merged upstream in [postgres.js](https://github.com/porsager/postgres/pull/1345) · a payments library on [npm](https://www.npmjs.com/package/exactly-once-webhooks), published with provenance
+
 ## What I do
 
 **Takeovers**<br>
@@ -62,9 +64,9 @@ Each is small, tested, CI-green, and documents its own limits (in a `DESIGN.md` 
 
 ## About this profile
 
-My client work is private and stays that way, so the public history here starts in November 2026. The repos pinned below are small samples of how I build — architected and directed by me, built fast with AI tooling (Claude). The design calls and the judgment are mine.
+Client work stays private, so the public history here starts in November 2026. The samples above show how I build: I design and direct them, AI coding tools (mainly Claude) write much of the code fast, and tests, CI and review hold it to the design.
 
-Proof you can check: the live site I run, [shadowvivo.com](https://shadowvivo.com), and a working demo of the support portal I built, [shadowvivo.com/support-demo](https://shadowvivo.com/support-demo/). Client reviews, all 5.0: [my Upwork profile](https://www.upwork.com/freelancers/joshuav68).
+Proof you can check: the live site I run, [shadowvivo.com](https://shadowvivo.com), and a working demo of the support portal I built, [shadowvivo.com/support-demo](https://shadowvivo.com/support-demo/). Client reviews: [my Upwork profile](https://www.upwork.com/freelancers/joshuav68).
 
 <p align="center">
 <a href="https://shadowvivo.com"><img alt="shadowvivo.com" src="https://img.shields.io/badge/shadowvivo.com-1f8a70?style=for-the-badge"></a>
